@@ -79,8 +79,11 @@ p {
 	margin-top: 0;
 }
 
-#gift-img-cheers {
-	height: 200px;
+#gift-img-first {
+}
+
+#gift-img-second {
+	height: 300px;
 }
 
 .gift-img {
@@ -94,11 +97,11 @@ p {
 	box-shadow: 0 0 50px whitesmoke;
 }
 
-#gift-img-happy:hover {
+#gift-img-first:hover {
 	background-image: url('images/cat-sleeping.gif');
 }
 
-#gift-img-hot:hover {
+#gift-img-second:hover {
 	background-image: url('images/happy-birthday.gif');
 }
 
